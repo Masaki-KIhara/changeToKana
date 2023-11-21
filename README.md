@@ -1,3 +1,3 @@
 ## template
 
-- react,typescript,tailwind のテンプレートリポジトリ
+- カナ氏名自動入力
